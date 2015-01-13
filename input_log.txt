@@ -1,0 +1,12 @@
+1234 11 login
+1244 12 login
+1254 11 logout
+12233 11 login
+12432 11 logout
+1264 13 login
+1284 13 logout
+1434 12 logout
+1264 13 login
+1284 13 logout
+1500 15 login
+4342 15 logout
